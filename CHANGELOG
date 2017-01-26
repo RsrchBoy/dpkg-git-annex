@@ -1,3 +1,9 @@
+git-annex (6.20170102~16.04~ppa1) xenial; urgency=medium
+
+  * Build for xenial.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Wed, 25 Jan 2017 19:59:29 -0600
+
 git-annex (6.20170102) UNRELEASED; urgency=medium
 
   * Increase default cost for p2p remotes from 200 to 1000.
